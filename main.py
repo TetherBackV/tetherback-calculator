@@ -153,7 +153,7 @@ with col_input:
             <a href="https://partner.bybit.com/b/TETHERBACK" target="_blank" class="partner-link">
                 ⚫ Bybit Official <span style="font-size: 12px; color: #8B949E;">(Click)</span>
             </a>
-            <a href="https://partner.bitget.com/bg/Tetherback" target="_blank" class="partner-link">
+            <a href="https://partner.bitget.com/bg/TBack20" target="_blank" class="partner-link">
                 🔵 Bitget Official <span style="font-size: 12px; color: #8B949E;">(Click)</span>
             </a>
             <a href="https://okx.com/join/TETHERBACK" target="_blank" class="partner-link">
